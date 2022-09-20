@@ -1,0 +1,16 @@
+ion-grid{
+    margin: 0;
+    height: 83%;
+    padding: 0 ;
+    width: 100%;
+}
+
+ion-col{
+    width: 50%;
+    height: 83%;
+}
+
+#logoING{
+    width: 60%;
+    height: 45%;
+}
